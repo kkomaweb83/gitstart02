@@ -21,7 +21,7 @@ public class DAO {
 		return getSql().selectList("list");
 	}
 	
-	// insert 처리하는 메소드
+	// insert 처리하는 메소드 77
 	public static int getInsert(VO vo){
 		int result = getSql().insert("insert", vo);
 		ss.commit();
