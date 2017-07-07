@@ -28,7 +28,7 @@ public class DAO {
 		return result;
 	}
 	
-	// 상세보기 처리하는 메소드
+	// 상세보기 처리하는 메소드 55
 	public static VO getOneList(String idx){
 		return getSql().selectOne("onelist", idx);
 	}

@@ -25,7 +25,7 @@
 		<table>
 			<thead>
 				<tr bgcolor="#99ccff">
-					<th>번호</th>
+					<th>번호88</th>
 					<th>작성자</th>
 					<th>제목</th>
 					<th>작성일</th>
