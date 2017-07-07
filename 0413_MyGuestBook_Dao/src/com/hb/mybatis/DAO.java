@@ -16,7 +16,7 @@ public class DAO {
 		return ss;
 	}
 	
-	// list 처리하는 메소드
+	// list 처리하는 메소드 88
 	public static List<VO> getList(){
 		return getSql().selectList("list");
 	}
